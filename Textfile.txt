@@ -1,0 +1,2 @@
+Hi all this a text file created to upload in github.
+It is observed that text file content can be viewed and read in local repository.
